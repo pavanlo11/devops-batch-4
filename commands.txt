@@ -10,4 +10,4 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "name"
 git config --global user.email "email"
-
+git checkout -b dev
